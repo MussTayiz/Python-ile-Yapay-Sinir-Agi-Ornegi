@@ -1,0 +1,34 @@
+epoch : 150
+ISTATISTIK:
+Toplam 96 Veri içersinde;
+Doğru Bilme Sayısı: 80
+Yanlış Bilme Sayısı: 16
+Başarı Yüzdesi: 83%
+
+epoch : 15
+ISTATISTIK:
+Toplam 96 Veri içersinde;
+Doğru Bilme Sayısı: 64
+Yanlış Bilme Sayısı: 32
+Başarı Yüzdesi: 66%
+
+epoch : 100
+ISTATISTIK:
+Toplam 96 Veri içersinde;
+Doğru Bilme Sayısı: 75
+Yanlış Bilme Sayısı: 21
+Başarı Yüzdesi: 78%
+
+epoch : 200
+ISTATISTIK:
+Toplam 96 Veri içersinde;
+Doğru Bilme Sayısı: 79
+Yanlış Bilme Sayısı: 17
+Başarı Yüzdesi: 82%
+
+epoch : 500
+ISTATISTIK:
+Toplam 96 Veri içersinde;
+Doğru Bilme Sayısı: 75
+Yanlış Bilme Sayısı: 21
+Başarı Yüzdesi: 78%
